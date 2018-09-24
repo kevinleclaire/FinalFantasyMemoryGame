@@ -1,0 +1,34 @@
+C:\Users\Kevin\Desktop\1632511_TP2_prog\TP2ETU\obj\Debug\TP2ETU.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\1632511_TP2_prog\TP2ETU\obj\Debug\Interop.WMPLib.dll
+C:\Users\Kevin\Desktop\1632511_TP2_prog\TP2ETU\obj\Debug\TP2ETU.csproj.ResolveComReference.cache
+C:\Users\Kevin\Desktop\1632511_TP2_prog\TP2ETU\obj\Debug\TP2ETU.frmMemoryGameMain.resources
+C:\Users\Kevin\Desktop\1632511_TP2_prog\TP2ETU\obj\Debug\TP2ETU.Form2.resources
+C:\Users\Kevin\Desktop\1632511_TP2_prog\TP2ETU\obj\Debug\TP2ETU.csproj.GenerateResource.Cache
+C:\Users\Kevin\Desktop\1632511_TP2_prog\TP2ETU\bin\Debug\TP2ETU.exe.config
+C:\Users\Kevin\Desktop\1632511_TP2_prog\TP2ETU\bin\Debug\Art\BattleFFVII.mp3
+C:\Users\Kevin\Desktop\1632511_TP2_prog\TP2ETU\bin\Debug\Art\BattleFFX.mp3
+C:\Users\Kevin\Desktop\1632511_TP2_prog\TP2ETU\bin\Debug\Art\FFVIIMAINTHEME.mp3
+C:\Users\Kevin\Desktop\1632511_TP2_prog\TP2ETU\bin\Debug\Art\ToZanarkand.mp3
+C:\Users\Kevin\Desktop\1632511_TP2_prog\TP2ETU\bin\Debug\Art\final_fantasy_x_logo_by_eldi13-d4204zv.png
+C:\Users\Kevin\Desktop\1632511_TP2_prog\TP2ETU\bin\Debug\TP2ETU.exe
+C:\Users\Kevin\Desktop\1632511_TP2_prog\TP2ETU\bin\Debug\TP2ETU.pdb
+C:\Users\Kevin\Desktop\1632511_TP2_prog\TP2ETU\obj\Debug\TP2ETU.Properties.Resources.resources
+C:\Users\Kevin\Desktop\1632511_TP2_prog\TP2ETU\obj\Debug\TP2ETU.exe
+C:\Users\Kevin\Desktop\1632511_TP2_prog\TP2ETU\obj\Debug\TP2ETU.pdb
+C:\Users\Kevin\Desktop\Projet Termine\MemoireFF\TP2ETU\bin\Debug\TP2ETU.exe.config
+C:\Users\Kevin\Desktop\Projet Termine\MemoireFF\TP2ETU\obj\Debug\Interop.WMPLib.dll
+C:\Users\Kevin\Desktop\Projet Termine\MemoireFF\TP2ETU\obj\Debug\TP2ETU.csproj.ResolveComReference.cache
+C:\Users\Kevin\Desktop\Projet Termine\MemoireFF\TP2ETU\obj\Debug\TP2ETU.exe
+C:\Users\Kevin\Desktop\Projet Termine\MemoireFF\TP2ETU\obj\Debug\TP2ETU.pdb
+C:\Users\Kevin\Desktop\Projet Termine\MemoireFF\TP2ETU\bin\Debug\Art\BattleFFVII.mp3
+C:\Users\Kevin\Desktop\Projet Termine\MemoireFF\TP2ETU\bin\Debug\Art\BattleFFX.mp3
+C:\Users\Kevin\Desktop\Projet Termine\MemoireFF\TP2ETU\bin\Debug\Art\FFVIIMAINTHEME.mp3
+C:\Users\Kevin\Desktop\Projet Termine\MemoireFF\TP2ETU\bin\Debug\Art\ToZanarkand.mp3
+C:\Users\Kevin\Desktop\Projet Termine\MemoireFF\TP2ETU\bin\Debug\Art\final_fantasy_x_logo_by_eldi13-d4204zv.png
+C:\Users\Kevin\Desktop\Projet Termine\MemoireFF\TP2ETU\bin\Debug\TP2ETU.exe
+C:\Users\Kevin\Desktop\Projet Termine\MemoireFF\TP2ETU\bin\Debug\TP2ETU.pdb
+C:\Users\Kevin\Desktop\Projet Termine\MemoireFF\TP2ETU\obj\Debug\TP2ETU.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\Projet Termine\MemoireFF\TP2ETU\obj\Debug\TP2ETU.frmMemoryGameMain.resources
+C:\Users\Kevin\Desktop\Projet Termine\MemoireFF\TP2ETU\obj\Debug\TP2ETU.Form2.resources
+C:\Users\Kevin\Desktop\Projet Termine\MemoireFF\TP2ETU\obj\Debug\TP2ETU.Properties.Resources.resources
+C:\Users\Kevin\Desktop\Projet Termine\MemoireFF\TP2ETU\obj\Debug\TP2ETU.csproj.GenerateResource.Cache
